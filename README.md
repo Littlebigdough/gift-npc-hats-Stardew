@@ -8,4 +8,6 @@ if you want to help just go into the hat file you want to make and comment your 
 If you want to discontinue make sure to send your work so far so others can continue your work, you will be credited no matter what!
 Last of all have fun!
 
-i will Post updates of what hats are done or not in an issue and will be updating it regularly :)
+i will Post important stuff and updates of what hats are done or not in the "UPDATES" issue and will be updating it regularly :)
+
+if you send a file it would be apreciated if you named it like this, [npcname][hat], eg: AbigailButterflyBow.png
