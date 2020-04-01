@@ -8,4 +8,4 @@ if you want to help just go into the hat file you want to make and comment your 
 If you want to discontinue make sure to send your work so far so others can continue your work, you will be credited no matter what!
 Last of all have fun!
 
-i will send a comment of what hats are done and not and will be updating it regularly :)
+i will Post updates of what hats are done or not in an issue and will be updating it regularly :)
