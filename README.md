@@ -10,4 +10,4 @@ Last of all have fun!
 
 i will Post important stuff and updates of what hats are done or not in the "UPDATES" issue and will be updating it regularly :)
 
-if you send a file it would be apreciated if you named it like this, [npcname][hat], eg: AbigailButterflyBow.png
+please make sure to look at the UPDATES issue, it has how tos for sending the files, character sheets and other Boradcasts
