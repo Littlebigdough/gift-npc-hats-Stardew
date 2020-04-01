@@ -10,10 +10,10 @@ Last of all have fun!
 
 here is the list of all the hats we have/havent done!
 
-the text in italics mean they have been done already
+the text in bold mean they have been done already
 Available hats:
 
-Arcane Hat [_Abi, Emi,_Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
+Arcane Hat [**Abi, Emi,Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]**
 Archer's Cap [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Beanie [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Blobfish Mask [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
@@ -22,7 +22,7 @@ Blue Cowboy Hat [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Sh
 Bowler Hat [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Bridal Veil [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Butterfly Bow [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
-Cat Ears [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
+Cat Ears **[Abi,** Emi, Hal, Leah, Maru, Peny, **Alex**, Elli, Harv, Sam, Seb, Shane]
 Chef Hat [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Chicken Mask [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Cone Hat [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
