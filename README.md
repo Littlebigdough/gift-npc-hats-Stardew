@@ -8,7 +8,7 @@ here is the list of all the hats we have/havent done!
 the text in italics mean they have been done already
 Available hats:
 
-Arcane Hat [Abi, Emi,Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
+Arcane Hat [_Abi, Emi,_Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Archer's Cap [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Beanie [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
 Blobfish Mask [Abi, Emi, Hal, Leah, Maru, Peny, Alex, Elli, Harv, Sam, Seb, Shane]
